@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/demo-typescript-react-vladilen/static/css/main.9351a892.chunk.css",
-    "main.js": "/demo-typescript-react-vladilen/static/js/main.dcbc0a2f.chunk.js",
-    "main.js.map": "/demo-typescript-react-vladilen/static/js/main.dcbc0a2f.chunk.js.map",
+    "main.js": "/demo-typescript-react-vladilen/static/js/main.24c1feea.chunk.js",
+    "main.js.map": "/demo-typescript-react-vladilen/static/js/main.24c1feea.chunk.js.map",
     "runtime-main.js": "/demo-typescript-react-vladilen/static/js/runtime-main.feb28860.js",
     "runtime-main.js.map": "/demo-typescript-react-vladilen/static/js/runtime-main.feb28860.js.map",
     "static/js/2.359c46f3.chunk.js": "/demo-typescript-react-vladilen/static/js/2.359c46f3.chunk.js",
     "static/js/2.359c46f3.chunk.js.map": "/demo-typescript-react-vladilen/static/js/2.359c46f3.chunk.js.map",
     "index.html": "/demo-typescript-react-vladilen/index.html",
-    "precache-manifest.aba64517cc7dc577da30857b163d25e6.js": "/demo-typescript-react-vladilen/precache-manifest.aba64517cc7dc577da30857b163d25e6.js",
+    "precache-manifest.b2d7bad22dc0d2c6f32cc08316f1f610.js": "/demo-typescript-react-vladilen/precache-manifest.b2d7bad22dc0d2c6f32cc08316f1f610.js",
     "service-worker.js": "/demo-typescript-react-vladilen/service-worker.js",
     "static/css/main.9351a892.chunk.css.map": "/demo-typescript-react-vladilen/static/css/main.9351a892.chunk.css.map",
     "static/js/2.359c46f3.chunk.js.LICENSE.txt": "/demo-typescript-react-vladilen/static/js/2.359c46f3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.feb28860.js",
     "static/js/2.359c46f3.chunk.js",
     "static/css/main.9351a892.chunk.css",
-    "static/js/main.dcbc0a2f.chunk.js"
+    "static/js/main.24c1feea.chunk.js"
   ]
 }
